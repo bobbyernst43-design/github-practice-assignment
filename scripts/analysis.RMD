@@ -9,7 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+#1. A title for the codes chunk
+#2. A description of what the code does
+#3. Future steps that need to be done in the code
 ```{r}
 5+5
 
